@@ -2,7 +2,9 @@
 ResearchPapers/
 datasets/
 data
-*.csv
+# *.csv
+# *.sa
+# *.en
 
 __pycache__/
 *.py[codz]
